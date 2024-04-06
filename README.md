@@ -1,3 +1,9 @@
+# Baachalorios in Management Information System 
+Instructor: Dr.Mohammed Shuib Mir 
+
+# Introduction 
+This repo contains all my work for this Subject. All the Tasks, screenshots to Google Analytics Platform, and images are taken unless specified
+
 # What is Google Analytics?!
 
 Google Analytics is an online Google platform that generates detailed statistics about a website’s traffic and traffic sources and measures website conversions and sales. A web traffic analysis application that collects, processes, and reports data from websites and apps to provide insights into user behavior, website performance, and business outcomes. 
@@ -6,6 +12,8 @@ The purpose of Google Analytics is to help website owners measure and improve
 helps website owners understand their audience, their needs, their preferences, and their feedback.
 
 # Here it is our Project on Google Analytics 
+https://github.com/Aeshah20/Google-Analytics-/tree/First 
+
 
 
 
