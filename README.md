@@ -1,4 +1,4 @@
-# Baclorios in Management Information System 
+# Bachelor's in Management Information System 
 Instructor: Pro.Mohammed Shuib Mir 
 
 # Introduction 
