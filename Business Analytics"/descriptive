@@ -1,0 +1,52 @@
+Three developments spurred recent explosive growth in the use of analytical methods in business applications:
+•	Technological Advances: scanner technology, data collection through e-commerce, Internet social networks, and data generated from personal electronic devices—produce incredible amounts of data for businesses. Businesses want to use these data to improve the efficiency and profitability of their operations, better understand their customers, price their products more effectively, and gain a competitive advantage.
+•	Methodological Developments: Advances in computational approaches to effectively handle and explore massive amounts of data, Faster algorithms for optimization and simulation and More effective approaches for visualizing data.
+•	Explosion in computing power and storage capability: Better computing hardware, parallel computing, and cloud computing have enabled businesses to solve big problems faster and more accurately than ever before.
+Availability of this massive amounts of data, improvements in analytic methodologies, and substantial increases in computing power have all come together to result in a dramatic upsurge in the use of analytical methods in business and a reliance on the discipline that is the focus of this course: business analytics
+
+Business Analytics: 
+◦	Scientific process of transforming raw data into meaningful insights for making better informed decisions.
+◦	Used for data-driven or fact-based decision making, which is often seen as more objective than other alternatives for decision making.
+Goals of Business Analytics
+•	Gaining insights into business practices and Customer Behaviors.
+•	Improving Predictability.
+•	Identifying Risk.
+•	Improving the effectiveness of communication.
+•	Enhancing operating efficiency
+1. Transform unstructured, non-standardized big data originated from multiple sources into meaningful information helpful for a better business decision.
+2. Make demand forecast more accurately by identifying trends and patterns in historical data.
+3. Business analytics functions as an early warning system for detecting the signs or symptoms of potential troubles by dissecting the business patterns (e.g., shrinking market share, a higher rate of customer defection, declining stock price).
+
+
+
+Descriptive Analytics
+Encompasses the set of techniques that describe what has happened in the past; examples:
+•	Data queries
+•	Reports
+•	Descriptive statistics
+•	Data visualization (including data dashboards)
+•	Data-mining techniques
+•	Basic what-if spreadsheet models
+Data query: A request for information with certain characteristics from a database
+Predictive Analytics
+Consists of techniques that use models constructed from past data to predict the future or ascertain the impact of one variable on another.
+Survey data and past purchase behavior may be used to help predict the market share of a new product
+•	For example, past data on product sales may be used to construct a mathematical model to predict future sales.
+Techniques used in Predictive Analytics:
+•	Linear regression
+•	Time series analysis
+•	Data mining 
+4. Provides user-friendly reports including “what-if” scenarios, which can be a valuable communication tool among the decision makers and thus would help the management team make more timely and accurate business decisions.
+5. Business analytics can decrease the chances of making poor investment decisions and misallocating the company’s resources by aiding the decision maker in understanding the way business works and where are the greatest business opportunities are. 
+
+Business Analytics Process
+Business Analytic Process involves the three major component steps applied sequentially to a source of data.
+Outcome of the business analytic process must relate to business and seek to improve business performance in some way.
+
+
+
+
+
+
+
+
