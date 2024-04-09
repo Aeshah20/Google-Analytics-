@@ -16,6 +16,7 @@ The Google Store needs to market successfully to a larger demographic. The store
 Google also needs to update the compatibility on other devices like phones and tablet. Most people are inseparable from their phones. They need to create more ads that appear on these devices. Overall, the performance of the google store is utterly unsuccessful and Google need to develop more successful marketing campaigns to attract loyal customers.
 
 # Customization-Dashboards
+
 1.	Audience Snapshot
 The Audience Snapshot gives the Google Store information on who visits the site, what time of visitor they are (new or returning), where the visitors are from, average pages per visit, average visit duration, tablet and mobile visits, etc.… It gives a mild overview of the behavioral habits of possible consumers. If the Google Store is able to better understand their audience then they can take steps to better market towards their consumers.
 “Unique visitors” decreased from 2016 to 2017 from 843,094 to 705,204. This is the amount of people who visits a site at least once within the reporting period. However, each is only counted once during the reporting period. If an IP address is repeated then is still only counts as one visitor.
@@ -32,6 +33,7 @@ The average visit duration has increased from 2:16 minutes to 2:32 minutes. Peop
 ____________________________________________________________________________________________________________________________________________________________
 
 ![image](https://github.com/Aeshah20/Google-Analytics-/assets/116434155/dabed26a-7d93-40b4-97bb-e5ba015442d1)
+
 2.	Device
 In this section, the demo account breaks down the device usage. Desktop users decreased from 669,838 to 479,828. Mobile and Tablet users both increased from 2016 to 2017 (147,762
 to 237,905 – Mobile, 26,037 to 33,473 tablet).
@@ -46,6 +48,7 @@ From 2016 to 2017 total users decreased from 843,094 to 750,204 and total pagevi
 
 
 ![image](https://github.com/Aeshah20/Google-Analytics-/assets/116434155/f633b634-ca54-45bf-b97a-3911ade5deb9)
+
 3.	Ecommerce
 From 2016 to 2017, Conversion rate increased from 1.59% to 2.66%. The is the percentage of users that take a desired action. The number of transactions increased from 16,838 to 26,949. Total revenue increased from $2,519,442.39 to $5,137,971.60. Average order value (AOV) increased from $149.63 to $190.66. AOV tracks the average amount spend each time a customer places an order.
 Visits decreased from 1,059,061 to 1,012,755 and per visit value increased from $2.38 to $5.07. This is important because it helps determine how much value your website in generating.
@@ -54,18 +57,21 @@ The change in the top 10 products by revenue is calculated. This determines whic
 Visits and product revenue by source and medium is also calculated. This keeps track of how the audience got to the site whether its through an organic search, a referral, etc.… This information will help determine what kind of ads google should put out and where
 
 ![image](https://github.com/Aeshah20/Google-Analytics-/assets/116434155/9f162bdc-87ba-466c-9fe2-5d64c4edc58c)
+
 4.	Real-Time
 Real time tell you what’s going on right now. The number of active users on a site continue to change depending on how many people are viewing the Google Store. Real time gives you information on the visitor type whether they are New or returening visitors, and it give you information on how many users are on certain pages like the home page, accessories, apparel, etc. It provides you with information pertaining to what device the audience is using and how they got to the site (what was their medium source: direct, organic, social, campaign, paid). It also shows you where these active users are located around the world, for example there is one user in Vaughan, United States.
 
 ![image](https://github.com/Aeshah20/Google-Analytics-/assets/116434155/e30ac55b-b562-4df9-bad8-b152da8c82f6)
+
 5.	SEO Performance
 Total Visits from SEO has increase from 266,470 to 375,691. This is the number of visits accumulated because of the optimization of the search engine. The number of organic searches also increased from 2016 to 2017, these are both the branded the non-branded visits from SEO. SEO Performance also gives you information on the most viewed pages from SEO and which search engines were used as well as which cities found the website through SEO. Traffic sources are also determined whether the search was organic, direct, affiliate, paid, referral or other.
 
 ![image](https://github.com/Aeshah20/Google-Analytics-/assets/116434155/9f9d7831-46d7-4d77-989e-80ffb1962394)
+
 6.	Site Performance Dashboard
 Site Performance dashboard analyzes and gives you an at-a-glace view on how well your website is performing. It gives you information like Average Page load time in seconds (this is how long your page takes to load) and Mobile page load time per second (this is how long your page takes to load on a mobile device). It gives you load time by browser and this feature compares different load speeds with different browsers. Additionally, the site performance dashboard provides you with the average server response time and the average domain lookup time (This is the average amount of time spent in domain name servers (DNS) lookup for the page). The domain lookup by county and redirect tine for countries is also provided. Lastly, it provides load time for the most popular pages. This breaks it down into number of pageviews on that page and the average page loading time of that specific page in seconds
 
-
+![image](https://github.com/Aeshah20/Google-Analytics-/assets/116434155/bfddda09-7702-4dde-8a5b-23909df45816)
 
 
 
