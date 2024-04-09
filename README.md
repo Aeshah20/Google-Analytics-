@@ -1,5 +1,4 @@
 # Bachelor's in Management Information System 
-Instructor: Pro.Mohammed Shuib Mir 
 
 # Introduction 
 This repo contains all my work for this Subject. All the Tasks, screenshots to Google Analytics Platform, and images are taken unless specified, Answer all Questions.
