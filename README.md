@@ -11,8 +11,8 @@ Enables website owners to analyze their visitors, to interpret and optimize t
 The purpose of Google Analytics is to help website owners measure and improve their website’s effectiveness and efficiency in achieving their goals, such as increasing sales, generating leads, enhancing user experience, etc.
 helps website owners understand their audience, their needs, their preferences, and their feedback.
 
-# Here it is our Project on Google Analytics 
-(https://github.com/Aeshah20/Google-Analytics-/blob/24ebcf2d541ff63aa558f408774cbdafdd95392c/business%20analytics%20application%20project.pdf)
+
+
 
 
 
